@@ -1,11 +1,9 @@
 body {
-    background:blue;
+    background:white;
 }
 
 h1 {
-    color:white
-}
-
-h1 {
+    color:black;
+    font: 1em sans-serif;
     text-align: center;
-}
+    font-size:xx-large;
